@@ -1,0 +1,106 @@
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.dll
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.pdb
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.CIPDirectTransport.dll
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.dll
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCCommon.dll
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCJoinTransport.dll
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\CRPCConnectionHelper.dll
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpHelperInterface.dll
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.dll
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.pdb
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpCustomAttributesInterface.dll
+C:\Crestron\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\AppHelperClasses v2_0.dll
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.dll
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.pdb
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.CIPDirectTransport.dll
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.dll
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCCommon.dll
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCJoinTransport.dll
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\bin\CRPCConnectionHelper.dll
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpCustomAttributesInterface.dll
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpHelperInterface.dll
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.dll
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.pdb
+C:\Christophe\Engineering\Projects\Media Player SDK\Latest\MediaPlayerSDK\MediaPlayerSDK\bin\AppHelperClasses v2_0.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.pdb
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\bin\AppHelperClasses v2_0.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.CIPDirectTransport.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCCommon.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCJoinTransport.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\bin\CRPCConnectionHelper.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpCustomAttributesInterface.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpHelperInterface.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.dll
+C:\Crestron\Simpl\Programs\Core 3 Media Player\SDK\Releases\v1.2\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.pdb
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.dll
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.pdb
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\AppHelperClasses v2_0.dll
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.CIPDirectTransport.dll
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.dll
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCCommon.dll
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCJoinTransport.dll
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\CRPCConnectionHelper.dll
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpCustomAttributesInterface.dll
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpHelperInterface.dll
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.dll
+C:\Crestron\Projects\Media Player\SDK\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.pdb
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.dll
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.dll
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.pdb
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\AppHelperClasses v2_0.dll
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.CIPDirectTransport.dll
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.dll
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCCommon.dll
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCJoinTransport.dll
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\CRPCConnectionHelper.dll
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpHelperInterface.dll
+C:\Users\kskontrianos\Desktop\Media Player SDK v1.3b\Media Player SDK v1.3\v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.pdb
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.dll
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.pdb
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\AppHelperClasses v2_0.dll
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.CIPDirectTransport.dll
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.dll
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCCommon.dll
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCJoinTransport.dll
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\CRPCConnectionHelper.dll
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpCustomAttributesInterface.dll
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpHelperInterface.dll
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.dll
+C:\Subversion\AppLibraries\trunk\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.pdb
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.dll
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.pdb
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.dll
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.pdb
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\AppHelperClasses v2_0.dll
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.CIPDirectTransport.dll
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.dll
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCCommon.dll
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCJoinTransport.dll
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\CRPCConnectionHelper.dll
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayer.dll
+C:\Users\jmercer\Documents\SVN\CrestronAppLibraries\SourceCode\MediaPlayerSimulator\SDK Release\MediaPlayerSDK\MediaPlayerSDK\bin\Newtonsoft.Json.Compact.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Menu-iPod.txt
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayerSDK.pdb
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\AppHelperClasses v2_0.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.CIPDirectTransport.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPC.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCCommon.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\Crestron.CRPCJoinTransport.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\CRPCConnectionHelper.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\MediaPlayer.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\bin\SimplSharpHelperInterface.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.dll
+C:\Users\mklucznyk\Downloads\Media Player SDK v1.3\Media Player SDK v1.3\MediaPlayerSDK\MediaPlayerSDK\MediaPlayerSDK\obj\Debug\MediaPlayerSDK.pdb

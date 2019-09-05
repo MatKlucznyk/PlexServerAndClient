@@ -1,0 +1,16 @@
+C:\Users\mklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\obj\Debug\MediaPlayerSDK.dll
+C:\Users\mklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\obj\Debug\MediaPlayerSDK.pdb
+C:\Users\mklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\bin\MediaPlayerSDK.dll
+C:\Users\mklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\bin\MediaPlayerSDK.pdb
+C:\Users\mklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\mklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\bin\SimplSharpHelperInterface.dll
+C:\Users\mklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\bin\SimplSharpCWSHelperInterface.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\bin\MediaPlayerSDK.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\bin\MediaPlayerSDK.pdb
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\bin\SimplSharpCWSHelperInterface.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\bin\SimplSharpHelperInterface.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\obj\Debug\MediaPlayerSDK.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\Plex\Plex\obj\Debug\MediaPlayerSDK.pdb
