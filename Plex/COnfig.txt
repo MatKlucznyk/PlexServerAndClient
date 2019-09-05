@@ -1,0 +1,13 @@
+authorize account @ plex.tv/users/sign_on.json
+	-> parse auth token
+	-> store token in nvram
+Connect to server with auth token
+	-> request first level of library
+
+
+NOTE: C:\Users\USERNAME\AppData\Local\PlexMediaPlayer\plexmediaplayer.config
+Must edit to always full screen
+
+
+
+https://192-168-2-103.48a4a052eb794bca9407c63255b99684.plex.direct:32400/library/metadata/818?X-Plex-Product=Plex%20Web&X-Plex-Version=3.77.4&X-Plex-Client-Identifier=hpffyvt4k8uju9y2k5igq9nn&X-Plex-Platform=Chrome&X-Plex-Platform-Version=74.0&X-Plex-Sync-Version=2&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1680x908%2C1680x1050&X-Plex-Token=PUnfCaq1XaxMBDSw5U32&X-Plex-Language=en&X-Plex-Text-Format=plain
